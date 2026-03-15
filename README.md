@@ -4,27 +4,19 @@ A modern, full-stack CRM solution built with **FastAPI** and **React** designed 
 
 ## 📌 Project Overview
 The **CRM Engine** is a high-performance application that manages the lifecycle of a sales lead from initial contact to conversion. It replaces static spreadsheets with a dynamic, data-driven dashboard that calculates lead engagement in real-time.
-
-<<<<<<< HEAD
-### Lead Management
-=======
-
-## 📸 Demo
-
-### 🖥️ Dashboard
+## 📸 Demo & Interface
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/4bc1ed95-0ca2-4609-9e58-eee126a50ed7" alt="CRM Dashboard" width="800"/>
+  <img src="./s1.png" alt="Main Dashboard" width="900"/>
 </p>
-
-### 👥 Lead Management
->>>>>>> 3abc0a3 (Update README with professional image layout)
+### Lead Management
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e556f233-4d9e-4a53-b096-7ab8a08f1fa9" alt="Lead Management Table" width="800"/>
+  <img src="./s2.png" alt="Edit Lead Modal" width="500"/>
+
 </p>
 
 ### 📊 Pipeline Visualization
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7db78064-1452-4517-a216-418211be08e5" alt="Analytics Chart" width="800"/>
+  <img src="./s3.png" alt="Visualization Chart" width="600"/>
 </p>
 
 
